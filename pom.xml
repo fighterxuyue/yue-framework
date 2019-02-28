@@ -13,7 +13,6 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<name>yue-framework</name>
-	<description>Demo project for Spring Cloud</description>
 
 	<properties>
 		<java.version>1.8</java.version>
@@ -46,4 +45,9 @@
 		</plugins>
 	</build>
 
+	<description>jeecg的spring boot版本</description>
+	<organization>
+		<name>Tony Xu</name>
+		<url>https://fighterxuyue.github.io/</url>
+	</organization>
 </project>
