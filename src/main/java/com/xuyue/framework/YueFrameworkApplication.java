@@ -17,6 +17,13 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class YueFrameworkApplication {
 
+	/**
+	 * 
+	 * @Title:main
+	 * @Description:TODO
+	 * @param args 
+	 * @return void 返回类型
+	 */
 	public static void main(String[] args) {
 		SpringApplication.run(YueFrameworkApplication.class, args);
 	}
