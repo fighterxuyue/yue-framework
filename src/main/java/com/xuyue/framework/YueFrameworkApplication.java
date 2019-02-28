@@ -12,6 +12,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * @author  xuyue fighterxuyue@163.com
  * @date 2019年2月28日 下午1:34:02
  * @version  v1.0
+ * 
  */
 @SpringBootApplication
 public class YueFrameworkApplication {
